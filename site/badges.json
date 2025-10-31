@@ -1,0 +1,395 @@
+[
+  {
+    "repo": "Olagoldstx/zero-trust-architecture",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/zero-trust-architecture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/zero-trust-architecture/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/zero-trust-architecture"
+  },
+  {
+    "repo": "Olagoldstx/ai-core-security-posture",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/ai-core-security-posture?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/ai-core-security-posture/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/ai-core-security-posture"
+  },
+  {
+    "repo": "Olagoldstx/securethecloud-badges",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/securethecloud-badges?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/securethecloud-badges/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/securethecloud-badges"
+  },
+  {
+    "repo": "Olagoldstx/multi-cloud-least-privilege-mastery",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-least-privilege-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-least-privilege-mastery/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/multi-cloud-least-privilege-mastery"
+  },
+  {
+    "repo": "Olagoldstx/Banner",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/Banner/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/Banner"
+  },
+  {
+    "repo": "Olagoldstx/cloud-kms-masterclass",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/cloud-kms-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/cloud-kms-masterclass/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/cloud-kms-masterclass"
+  },
+  {
+    "repo": "Olagoldstx/zero-trust-comprehensive-course",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/zero-trust-comprehensive-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/zero-trust-comprehensive-course/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/zero-trust-comprehensive-course"
+  },
+  {
+    "repo": "Olagoldstx/kubernetes-security-masterclass",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/kubernetes-security-masterclass?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/kubernetes-security-masterclass/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/kubernetes-security-masterclass"
+  },
+  {
+    "repo": "Olagoldstx/multi-cloud-kms-lab",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-kms-lab/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/multi-cloud-kms-lab"
+  },
+  {
+    "repo": "Olagoldstx/tri-cloud-security-architect",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/tri-cloud-security-architect?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/tri-cloud-security-architect/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/tri-cloud-security-architect"
+  },
+  {
+    "repo": "Olagoldstx/dockerfile-security-playbook",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/dockerfile-security-playbook?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/dockerfile-security-playbook/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/dockerfile-security-playbook"
+  },
+  {
+    "repo": "Olagoldstx/multi-cloud-iam-bootcamp",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-iam-bootcamp?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-iam-bootcamp/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/multi-cloud-iam-bootcamp"
+  },
+  {
+    "repo": "Olagoldstx/aws-multicloud-security-blueprint",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/aws-multicloud-security-blueprint?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/aws-multicloud-security-blueprint/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/aws-multicloud-security-blueprint"
+  },
+  {
+    "repo": "Olagoldstx/multi-cloud-security-architect-course",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-security-architect-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-security-architect-course/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/multi-cloud-security-architect-course"
+  },
+  {
+    "repo": "Olagoldstx/trinity-cloud-security-course",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/trinity-cloud-security-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/trinity-cloud-security-course/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/trinity-cloud-security-course"
+  },
+  {
+    "repo": "Olagoldstx/multi-cloud-ec2-mastery",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-ec2-mastery?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-ec2-mastery/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/multi-cloud-ec2-mastery"
+  },
+  {
+    "repo": "Olagoldstx/cross-cloud-security-tutorial",
+    "default_branch": "main",
+    "topics": [
+      "aws",
+      "azure",
+      "cloud-security",
+      "devops",
+      "gcp",
+      "iam",
+      "multi-cloud",
+      "tutorial"
+    ],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/cross-cloud-security-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/cross-cloud-security-tutorial/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/cross-cloud-security-tutorial"
+  },
+  {
+    "repo": "Olagoldstx/secure-ecommerce-platform",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/secure-ecommerce-platform?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/secure-ecommerce-platform/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/secure-ecommerce-platform"
+  },
+  {
+    "repo": "Olagoldstx/terraform-ansible-tutorial",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/terraform-ansible-tutorial?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/terraform-ansible-tutorial/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/terraform-ansible-tutorial"
+  },
+  {
+    "repo": "Olagoldstx/Cloud-Security-",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/Cloud-Security-?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/Cloud-Security-/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/Cloud-Security-"
+  },
+  {
+    "repo": "Olagoldstx/secure-network-architecture-course",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/secure-network-architecture-course?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/secure-network-architecture-course/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/secure-network-architecture-course"
+  },
+  {
+    "repo": "Olagoldstx/IaaS-II",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/IaaS-II?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/IaaS-II/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/IaaS-II"
+  },
+  {
+    "repo": "Olagoldstx/cloudsec-master",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/cloudsec-master?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/cloudsec-master/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/cloudsec-master"
+  },
+  {
+    "repo": "Olagoldstx/SQL-Injection",
+    "default_branch": "main",
+    "topics": [],
+    "badges": [
+      "https://img.shields.io/github/license/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/stars/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a&logo=github",
+      "https://img.shields.io/github/last-commit/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/issues-pr/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/repo-size/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/languages/top/Olagoldstx/SQL-Injection?style=for-the-badge&labelColor=0f172a",
+      "https://img.shields.io/github/actions/workflow/status/Olagoldstx/SQL-Injection/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a"
+    ],
+    "url": "https://github.com/Olagoldstx/SQL-Injection"
+  }
+]
