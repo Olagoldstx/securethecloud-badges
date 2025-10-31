@@ -129,6 +129,29 @@ def ensure_branch(owner, repo, base, new_branch):
         # branch may exist; ignore
         pass
 
+def ensure_default_branch_exists(owner, repo, default_branch):
+    """
+    If the repository is empty (no commits), create an initial README on the default branch.
+    This implicitly creates the default branch so subsequent ref lookups work.
+    """
+    try:
+        # Will fail with 409 on empty repositories
+        gh(f"{API}/repos/{owner}/{repo}/git/ref/heads/{default_branch}")
+        return  # branch exists with at least one commit
+    except RuntimeError as e:
+        if "Git Repository is empty" in str(e):
+            # Create the first commit by writing a README onto the intended default branch
+            initial = f"# {repo}\n\nInitialized for automated Shields.io badges.\n"
+            put_file(
+                owner, repo, "README.md", initial,
+                sha=None,
+                branch=default_branch,  # <-- IMPORTANT: create the default branch with this commit
+                message="chore: initial README for badges bootstrap"
+            )
+            return
+        raise
+
+
 def open_pr(owner, repo, head, base, title):
     try:
         gh(f"{API}/repos/{owner}/{repo}/pulls", method="POST",
@@ -138,8 +161,13 @@ def open_pr(owner, repo, head, base, title):
 
 def upsert_badges(owner, repo):
     default_branch, topics = get_default_branch(owner, repo)
+
+    # Ensure even empty repos have a default branch
+    ensure_default_branch_exists(owner, repo, default_branch)
+
     br = BR_PREFIX + slug()
     ensure_branch(owner, repo, default_branch, br)
+
     readme_path_candidates = ["README.md", "Readme.md", "readme.md"]
     raw, sha, path = None, None, None
     for p in readme_path_candidates:

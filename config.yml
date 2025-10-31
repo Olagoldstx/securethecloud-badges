@@ -1,19 +1,17 @@
-
-### `config.yml`
-```yaml
 users:
   - olagoldstx
-  - cloudlab
-  - olumidetowoju
+
 exclude_name_contains:
   - trumind
   - psychiatry
+
 readme:
   start_marker: "<!-- BADGES:START -->"
-  end_marker:   "<!-- BADGES:END -->"
-  style: "for-the-badge"          # flat, flat-square, plastic, for-the-badge
+  end_marker: "<!-- BADGES:END -->"
+  style: "for-the-badge"
   theme:
-    labelColor: "0f172a"          # slate-900
+    labelColor: "0f172a"
+
 default_badges:
   - type: github_license
   - type: github_stars
@@ -23,7 +21,8 @@ default_badges:
   - type: repo_size
   - type: languages
   - type: workflow_status
-topic_badges:                      # add-on badges based on repo topics
+
+topic_badges:
   terraform:
     - type: custom
       label: Terraform
@@ -48,10 +47,13 @@ topic_badges:                      # add-on badges based on repo topics
       message: Safe-by-Design
       color: "111827"
       logo: openai
+
 workflow:
-  file: ".github/workflows/ci.yml"  # used for actions status badge if present
+  file: ".github/workflows/ci.yml"
+
 site_export:
   path: "site/badges.json"
+
 branch:
   name_prefix: "chore/badges-"
   commit_message: "chore: add/update Shields.io badges"
