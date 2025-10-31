@@ -1,0 +1,25 @@
+name: badges
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * 1"   # weekly refresh Mondays 08:00 UTC
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.x" }
+      - run: pip install pyyaml requests
+      - name: Run updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readmes.py
+      - name: Upload site export
+        uses: actions/upload-artifact@v4
+        with:
+          name: badges-json
+          path: site/badges.json
