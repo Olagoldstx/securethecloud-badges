@@ -1,0 +1,4 @@
+repo	date	message	url
+	2025-10-31T14:21:31-07:00	chore: badges for securethecloud-badges (#4)  * chore: add/update Shields.io badges  * chore: add minimal ci for badge visibility	https://github.com/Olagoldstx/securethecloud-badges/commit/d809496ced803a6c54acf12f8512ab1cf2f88d43
+	2025-10-31T13:57:06-07:00	chore: initial README for badges bootstrap	https://github.com/Olagoldstx/zero-trust-architecture/commit/c79c72c3672772a07f79d8e236d0557fb10b810a
+	2025-10-31T13:56:17-07:00	chore: initial README for badges bootstrap	https://github.com/Olagoldstx/ai-core-security-posture/commit/bdcd0953a5dcb7c76f07c2e20abef5cfcf225afd

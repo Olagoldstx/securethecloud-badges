@@ -1,0 +1,3 @@
+repo	date	message	url
+	2025-10-31T14:31:26-07:00	ci: use BADGE_PAT for cross-repo updates; pin Python 3.11	https://github.com/Olagoldstx/securethecloud-badges/commit/4dc71c5eae162ac2734bc05c2c6f07b1d848c41b
+	2025-10-31T14:21:31-07:00	chore: badges for securethecloud-badges (#4)  * chore: add/update Shields.io badges  * chore: add minimal ci for badge visibility	https://github.com/Olagoldstx/securethecloud-badges/commit/d809496ced803a6c54acf12f8512ab1cf2f88d43
