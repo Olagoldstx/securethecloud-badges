@@ -22,7 +22,6 @@ It’s optimized for transparency, repeatability, and simple daily reporting via
 
 *(Place your SecureTheCloud banner here)*  
 ![SecureTheCloud Banner](./assets/banner-securethecloud-dark.png)
-
 ---
 
 ## ⚙️ Prerequisites
